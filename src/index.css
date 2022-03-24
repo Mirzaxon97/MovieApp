@@ -1,0 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.footer{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 65px;
+  background: crimson;
+  color: #ffff;
+}
+
+.navbar{
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 65px;
+  background: crimson;
+  color: #ffff;
+  font-size: 28px;
+  padding-left: 2rem;
+}
+
+.main{
+  width: 100%;
+  min-height: 85vh;
+
+  
+}
+
+.films{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+
+
+.card_log{
+  width: 300px;
+}
+
+.loader{
+  width: 20%;
+  position: relative;
+  top: 18rem;
+  margin: auto;
+}
+
+.bt{
+  width: 30%;
+  position: relative;
+  top: 1.5rem;
+}
+
+
+.row{
+  padding: 0 0 0 30%;
+  margin: 0 auto;
+}
+
+
